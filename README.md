@@ -13,3 +13,10 @@
 * __界面引擎（GUI）__。这是UI部分，与核心引擎通过协议通信
 * __通信协议（Protocol）__。负责棋子表示法（stone representation）、协议命令等方面
 * __核心引擎（Engine kernel）__。最核心的引擎，下面又可以分很多模块，比如胜负判断、禁手判断、规则执行、算杀模块、局势判断模块等。到时设计的时候再考虑了
+
+## 参考资料
+
+以奕心作者孙锴博客为入口，有很多不错的资源。以及其他有益的资料，到时学习时会一并不遗漏地放在这里。
+
+* [孙锴 Gomoku Renju Resources: An Overview](http://www.aiexp.info/gomoku-renju-resources-an-overview.html)
+* [孙锴博客主页](http://www.aiexp.info/category/blog.html)
